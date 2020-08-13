@@ -5,6 +5,35 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: rgb(34, 203, 209);
+  text-align: center;
+  font-size: 30px; 
+  
+}
+
+.bonkers{
+  background-color: rgb(34, 203, 209);
+}
+
+.toyota{
+  background: rgb(34, 203, 209);
+}
+
+.Hoco{
+  background-color: rgb(34, 203, 209);
+}
+
+.bigBoy{
+  text-decoration-color: white;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.container{
+  background: rgb(34, 203, 209);
+  padding-bottom: 10px;
 }
 
 code {
