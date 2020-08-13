@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cookie-times-lecture/static/css/main.0f8d1d6a.chunk.css",
+    "main.js": "/cookie-times-lecture/static/js/main.d13dbbd6.chunk.js",
+    "main.js.map": "/cookie-times-lecture/static/js/main.d13dbbd6.chunk.js.map",
+    "runtime-main.js": "/cookie-times-lecture/static/js/runtime-main.8901086c.js",
+    "runtime-main.js.map": "/cookie-times-lecture/static/js/runtime-main.8901086c.js.map",
+    "static/js/2.34e12a38.chunk.js": "/cookie-times-lecture/static/js/2.34e12a38.chunk.js",
+    "static/js/2.34e12a38.chunk.js.map": "/cookie-times-lecture/static/js/2.34e12a38.chunk.js.map",
+    "index.html": "/cookie-times-lecture/index.html",
+    "precache-manifest.62d8dde5fa461c7ddf237f0ed5f0bbdd.js": "/cookie-times-lecture/precache-manifest.62d8dde5fa461c7ddf237f0ed5f0bbdd.js",
+    "service-worker.js": "/cookie-times-lecture/service-worker.js",
+    "static/css/main.0f8d1d6a.chunk.css.map": "/cookie-times-lecture/static/css/main.0f8d1d6a.chunk.css.map",
+    "static/js/2.34e12a38.chunk.js.LICENSE.txt": "/cookie-times-lecture/static/js/2.34e12a38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8901086c.js",
+    "static/js/2.34e12a38.chunk.js",
+    "static/css/main.0f8d1d6a.chunk.css",
+    "static/js/main.d13dbbd6.chunk.js"
+  ]
+}
